@@ -34,3 +34,8 @@ Here I will put my projects made in HTML, CSS and JavaScript, they were motivate
   
   ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/956577962646470666/unknown.png?width=1394&height=594)
  
+- 🃏 Card Game: In this project I made a card game based in Saint Seiya.
+
+  https://codepen.io/rafaelsilveira27/full/vYpKWpa
+  
+  ![Preview of the program](https://media.discordapp.net/attachments/859912057163874315/964126918217723934/unknown.png?width=1352&height=594)
